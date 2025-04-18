@@ -1,0 +1,8 @@
+
+                    | Contribution      | Amount  |
+                    |------------------|---------|
+                    | SSS              | 133     |
+                    | Pag-IBIG         | 12      |
+                    | PhilHealth       | 12      |
+                    | BIR Tax          | 12      |
+                    
