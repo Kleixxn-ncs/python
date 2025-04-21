@@ -1,5 +1,0 @@
-
-        [1m| First Name  | Last Name  | Age   | Gender  |
-        |-------------|------------|-------|---------|[0m
-        | Klein       | Lavina     | 12    | Male    |
-        
